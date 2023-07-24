@@ -1,4 +1,0 @@
-#Sun Jul 10 23:31:54 CLT 2022
-base.0=/Users/hcayupi/Documents/GITHUB/FLUTTER/snakbar/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

@@ -1,0 +1,4 @@
+#Thu Jun 30 00:04:54 CLT 2022
+base.0=/Users/hcayupi/Documents/GITHUB/FLUTTER/calculadora/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
